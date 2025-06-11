@@ -1,4 +1,7 @@
 flask==3.0.0
 tensorflow==2.17.1
 numpy==1.24.3
-Pillow==10.2.0
+Pillow
+requests
+setuptools==65.5.0
+wheel
